@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# Part of Odoo. Created by Shameena Moin.
 from odoo import models, fields, api
 import requests
 import json
